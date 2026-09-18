@@ -1,0 +1,24 @@
+# API Keys & Secrets
+.env
+.streamlit/
+
+# Vector Database (ChromaDB local storage)
+chroma_db/
+chroma_data/
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+
+data/
